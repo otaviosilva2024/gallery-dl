@@ -6,7 +6,7 @@
 # it under the terms of the GNU General Public License version 2 as
 # published by the Free Software Foundation.
 
-"""Downloader module for http:// and https:// URLs"""
+"""Downloader module for https://www.deviantart.com/n8navarro/art/John-Corben-Metallo-New-Earth-1212585450 and https:// URLs"""
 
 import time
 import mimetypes
